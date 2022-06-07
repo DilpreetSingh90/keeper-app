@@ -9,13 +9,13 @@ html {
 body {
   background: #eee;
   background-color: #eba0cc;
-  background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+  background-image: url("https://img.freepik.com/free-photo/blank-old-paper-textured-background_53876-153126.jpg?w=1060");
   padding: 0 16px;
 }
 
 header {
   width: 110%;
-  background-color: #e606a3;
+  background-color: #744e296c;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -62,7 +62,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #e606a3;
+  color: #39230d9c;
   border: none;
   width: 36px;
   height: 36px;
@@ -93,7 +93,7 @@ form.create-note button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #e606a3;
+  background: #39230d9c;
   color: #fff;
   border: none;
   border-radius: 50%;
